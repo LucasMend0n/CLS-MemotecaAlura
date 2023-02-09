@@ -32,12 +32,10 @@ formulario! : FormGroup
     if(this.formulario.valid){
       this.service.criar(this.formulario.value).subscribe(()=>{
       this.router.navigate(['/listarPensamento'])
-      alert("Pensamento criado!")
       });
     }
   }
   cancelarPensamento(){
-    alert("Pensamento cancelado!");
     this.router.navigate(['/listarPensamento']);
   }
 
