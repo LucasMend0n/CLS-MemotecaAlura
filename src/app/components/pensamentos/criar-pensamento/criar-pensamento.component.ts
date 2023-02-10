@@ -23,7 +23,8 @@ formulario! : FormGroup
     this.formulario = this.formBuilder.group({
       conteudo: ['', Validators.compose([Validators.required, Validators.pattern(/(.|\s)*\S(.|\s)*/), ])],
       autoria: ['', Validators.compose([Validators.required, Validators.minLength(3)])],
-      modelo: ['modelo1', Validators.required]
+      modelo: ['modelo1'],
+      favorito: ['false']
     })
   }
 
