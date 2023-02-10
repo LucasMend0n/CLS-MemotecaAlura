@@ -1,109 +1,46 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "O último burguês que pendurarmos, será aquele que nos vendeu a corda!",
-      "autoria": "Lenin",
+      "conteudo": "Sou Lucas Mendonça! ",
+      "autoria": "Lucas",
       "modelo": "modelo1",
-      "favorito": false
+      "favorito": "false",
+      "id": 1
     },
     {
-      "id": 2,
-      "conteudo": "Não se pode pensar em movimento radical, forte e vivo, onde não haja controvérsia. A unanimidade absoluta só existe nos cemitérios.",
-      "autoria": "Stalin",
+      "conteudo": "Obrigado por baixar e rodar meu projeto! ",
+      "autoria": "Lucas",
       "modelo": "modelo2",
-      "favorito": false
+      "favorito": "false",
+      "id": 2
     },
     {
       "id": 3,
-      "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Diuretics paradis num copo é motivis de denguis. Atirei o pau no gatis, per gatis num morreus. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Sapien in monti palavris qui num significa nadis i pareci latim.",
-      "autoria": "Trotsky",
+      "conteudo": "Me dá um alô no Linkedin ou na DM! ",
+      "autoria": "Lucas",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": "false"
     },
     {
-      "conteudo": "Adoro comer cu de curiosos",
-      "autoria": "Lucquitas",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 4
+      "id": 4,
+      "conteudo": "Se divirta brincando com esse CRUD!",
+      "autoria": "Lucas",
+      "modelo": "modelo3",
+      "favorito": "false"
     },
     {
-      "conteudo": "Herpes Zoster",
-      "autoria": "Mauricio de souza",
+      "conteudo": "Não esquece o npm Install!",
+      "autoria": "Lucas",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": "false",
+      "id": 5
+    },
+    {
+      "conteudo": "Boa sorte nos estudos! ",
+      "autoria": "Lucas",
+      "modelo": "modelo1",
+      "favorito": "false",
       "id": 6
-    },
-    {
-      "conteudo": "Que a força esteja com você! ",
-      "autoria": "Ademar de barros",
-      "modelo": "modelo3",
-      "favorito": false,
-      "id": 8
-    },
-    {
-      "conteudo": "dadasdasd",
-      "autoria": "adsdasdasdadas",
-      "modelo": "modelo3",
-      "favorito": false,
-      "id": 9
-    },
-    {
-      "conteudo": "dasdasdas",
-      "autoria": "asdasdasdasd",
-      "modelo": "modelo2",
-      "favorito": false,
-      "id": 10
-    },
-    {
-      "conteudo": "dasdasdasdasdasdasdasd",
-      "autoria": "asdasdasdasdasdasdasdasdasda",
-      "modelo": "modelo3",
-      "favorito": false,
-      "id": 11
-    },
-    {
-      "conteudo": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "autoria": "aaaaaaaaaaaaaaaaaAAAAAAAAAAAAAAAAAAAAAAA",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 12
-    },
-    {
-      "conteudo": "asdasdasdahhhhhhhhhhhhhhhhhhhhhhhhhhh",
-      "autoria": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk",
-      "modelo": "modelo3",
-      "favorito": false,
-      "id": 13
-    },
-    {
-      "conteudo": "eufhguodfhuohuo",
-      "autoria": "uownfowuhdfuowehf",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 14
-    },
-    {
-      "conteudo": "sdjfbsdhjifhjisdbfyibdibfyibi",
-      "autoria": "hidvfyhiwsdbfyhibwyhifbw",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 15
-    },
-    {
-      "conteudo": "jodbfohjbjfbsjfbsdbfksdbfhksbdfhkbshkh",
-      "autoria": "ldnfsjdnfjksndfjksdjkfbsdjfbkhb",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 16
-    },
-    {
-      "conteudo": "dlfjbsjfbsdjbfsjkdbfjksdbfjksdbjksdbfjksbdjk",
-      "autoria": "fjbsfbjskdbfkjsdbfjksdbfksdbfksd",
-      "modelo": "modelo1",
-      "favorito": false,
-      "id": 17
     }
   ]
 }
